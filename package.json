@@ -1,0 +1,12 @@
+{
+    "name": "clikit",
+    "version": "0.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:LvChengbin/clikit.git",
+    "author": "LvChengbin <lvchengbin59@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "workspaces" : [
+        "packages/*"
+    ]
+}
