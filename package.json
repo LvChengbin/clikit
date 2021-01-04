@@ -6,7 +6,13 @@
     "author": "LvChengbin <lvchengbin59@gmail.com>",
     "license": "MIT",
     "private": true,
-    "workspaces" : [
+    "workspaces": [
         "packages/*"
-    ]
+    ],
+    "devDependencies": {
+        "eslint": "^7.6.0",
+        "jest": "^26.2.2",
+        "ts-node": "^8.10.2",
+        "typescript": "^3.9.7"
+    }
 }

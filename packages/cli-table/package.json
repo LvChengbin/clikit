@@ -1,8 +1,0 @@
-{
-  "name": "@clikit/table",
-  "version": "0.0.0",
-  "main": "dist/index.js",
-  "author": "LvChengbin <lvchengbin59@gmail.com>",
-  "license": "MIT",
-  "private": false
-}
